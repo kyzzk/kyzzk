@@ -4,5 +4,5 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzzk&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="x" src="https://i.pinimg.com/originals/b7/da/6e/b7da6ec6a2e31bcf8c5ea3a7488afc6c.gif">
 </div>
