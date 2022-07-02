@@ -44,8 +44,8 @@
 ### My Github's status:
 <div>
   <a href="https://github.com/kyzzk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyzzk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzzk&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kyzzk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyzzk&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
