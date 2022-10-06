@@ -10,9 +10,6 @@
 <p>
   Information Management (2/4) - Universidade Federal do Paraná (UFPR)
 </p>
-<p>
-  Computer Science (1/4) - Estácio
-</p>
 
 ##
   
