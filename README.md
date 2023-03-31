@@ -2,7 +2,7 @@
 
 ### About Me:
 
-<p>- Hi there, I'm Guilherme, 20 years old. I'm Data Enthusiast and Python developer.</p>
+<p>- Hi there, I'm Guilherme, 20 years old. I'm Full Stack Developer.</p>
 
 ##
 
