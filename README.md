@@ -9,8 +9,8 @@
 ### 🎓 My Education:
 <p>
 
-Bachelor’s in Information Management (in progress) - Universidade Federal do Paraná (UFPR) <br/>
-Bachelor's in Computer Engineering</strong> (in progress) - Faculdade Descomplica
+Bachelor’s in Information Management - Universidade Federal do Paraná (UFPR) <br/>
+Bachelor's in Computer Engineering - Faculdade Descomplica
   
 </p>
 
