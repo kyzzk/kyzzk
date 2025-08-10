@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Guilherme</h1>
 <p align="center">
-  🚀 22-year-old Full Stack Developer | Passionate about building scalable and innovative solutions.<br/>
+  🚀 23-year-old Full Stack Developer | Passionate about building scalable and innovative solutions.<br/>
   💡 Focused on Web, AI and Cloud technologies | Lifelong learner & tech enthusiast.
 </p>
 
