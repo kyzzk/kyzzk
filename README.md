@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Guilherme Moraes Seguro</h1>
+<h1 align="center">🚀 Guilherme</h1>
 <h3 align="center">Full Stack Developer • AI & Web3 Enthusiast • Cloud Architect</h3>
 
 <p align="center">
